@@ -1,6 +1,6 @@
 [
   {
-    "title": "Weihenstephan H-Milch",
+    "title": "Weihenstephan H-Milch 1,5%",
     "price": "1,21 €",
     "priceBasis": "1,21 €/l",
     "regularPrice": "1,99 €",
@@ -12,8 +12,8 @@
   },
   {
     "title": "ALB-GOLD Bio Mie-Nudeln mit Ei",
-    "price": "1,65 €",
-    "priceBasis": "6,6 €/kg",
+    "price": "1,60 €",
+    "priceBasis": "6,40 €/kg",
     "regularPrice": "2,29 €",
     "regularPriceBasis": "9,16 €/kg",
     "packSize": "250g",

@@ -3,7 +3,7 @@ const app = express();
 const fs = require("fs");
 
 app.get("/", (req, res) => {
-  res.send("Supermarkt-API läuft!");
+  res.send("further-shops-API läuft!");
 });
 
 app.get("/edeka_angebote.json", (req, res) => {

@@ -23,8 +23,8 @@
   },
   {
     "title": "Golden Toast Vollkorn",
-    "price": "1,40 €/kg",
-    "priceBasis": "2,80 €/kg",
+    "price": "",
+    "priceBasis": "",
     "regularPrice": "1,90 €",
     "regularPriceBasis": "3,80 €/kg",
     "packSize": "500g",

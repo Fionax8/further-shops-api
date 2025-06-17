@@ -1,0 +1,167 @@
+[
+  {
+    "title": "Weihenstephan H-Milch",
+    "price": "1,21 €",
+    "priceBasis": "1,21 €/l",
+    "regularPrice": "1,99 €",
+    "regularPriceBasis": "1,99 €/l",
+    "packSize": "1l",
+    "info": "1,5/3,5% Fett, je 1-l-Pckg",
+    "image": "https://lh3.googleusercontent.com/spp/AGWwKCcP3Oi0CIoOBD_Xb4s_a__7-20EdgESDLTalfJKY54CXAget2PusZgSqmwXkgjW1XX3i3s_0phlMKKA53rGPlNPG7n_pu4WV1XjJFA28nDLd-7SodgbFFJhm9NdCpoQbBuxe5dvL0SLkZYdUmOmXmRemY_YvOAfgVx89qvkh00uYRlnHPSlnYu3ZJ-GBIffnmZpTjOroQ=s512-rw-pd-pc0x00ffffff",
+    "barcode": "4008452027589"
+  },
+  {
+    "title": "ALB-GOLD Bio Mie-Nudeln mit Ei",
+    "price": "1,65 €",
+    "priceBasis": "6,6 €/kg",
+    "regularPrice": "2,29 €",
+    "regularPriceBasis": "9,16 €/kg",
+    "packSize": "250g",
+    "info": "250g | 9,16 €/kg",
+    "image": "https://media.cdn.kaufland.de/product-images/1024x1024/e542ae1740b2c867331bc20d77b99989.webp",
+    "barcode": "4018722305736"
+  },
+  {
+    "title": "ALB-GOLD Vollkorn Mie-Noodles",
+    "price": "1,39 €",
+    "priceBasis": "5,56 €/kg",
+    "regularPrice": "1,59 €",
+    "regularPriceBasis": "6,36 €/kg",
+    "packSize": "250g",
+    "info": "250g | 5,56 €/kg",
+    "image": "https://media.cdn.kaufland.de/product-images/1024x1024/e542ae1740b2c867331bc20d77b99989.webp",
+    "barcode": "4018722341680"
+  },       
+  {
+    "title": "Davert Bio Jasmin-Reis Weiß",
+    "price": "2,59 €",
+    "priceBasis": "5,18 €/kg",
+    "regularPrice": "3,00 €",
+    "regularPriceBasis": "6,00 €/kg",
+    "packSize": "500g",
+    "info": "500g | 5,18 €/kg",
+    "image": "https://img.rewe-static.de/8752184/24762958_digital-image.png?imwidth=152&impolicy=kues",
+    "barcode": "4019339233122"
+  },
+  {
+    "title": "KoRo Cashewkerne Bruch",
+    "price": "10,00 €",
+    "priceBasis": "10 €/kg",
+    "regularPrice": "13,20 €",
+    "regularPriceBasis": "13,20 €/kg",
+    "packSize": "1kg",
+    "info": "1kg | 13,20 €/kg",
+    "image": "https://media.cdn.kaufland.de/product-images/1024x1024/6c6c552d64682c16f5e45be2c4e25315.webp",
+    "barcode": "4260335835586"
+  },     
+  {
+    "title": "EHRMANN Grand Dessert ",
+    "price": "",
+    "priceBasis": "",
+    "regularPrice": "1,19 €",
+    "regularPriceBasis": "2,58 €/kg",
+    "packSize": "190g",
+    "info": "je 190-g-Becher | (1 kg = 2.58)",
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/01150830?JGstbGVnYWN5LW9uc2l0ZS0zJA==",
+    "barcode": "4002971234107"
+  },
+  {
+    "title": "Ritter Sport Vollmilch laktosefrei",
+    "price": "",
+    "priceBasis": "",
+    "regularPrice": "1,99 €",
+    "regularPriceBasis": "19,90 €/kg",
+    "packSize": "100g",
+    "info": "100g | 1kg = 19,90 €",
+    "image": "https://media.cdn.kaufland.de/product-images/1024x1024/cec05e08854f21457ffce2946a729a56.webp",
+    "barcode": "4000417102003"
+  },
+  {
+    "title": "Ritter Sport Kakao-Mousse",
+    "price": "",
+    "priceBasis": "",
+    "regularPrice": "1,99",
+    "regularPriceBasis": "19,90 €/kg",
+    "packSize": "100g",
+    "info": "100g | 1kg = 19,90 €",
+    "image": "https://media.cdn.kaufland.de/product-images/1024x1024/fba0b762e6104dda6c3828340d610adb.webp",
+    "barcode": "4000417629418"
+  },
+  {
+    "title": "Ritter Sport Nugat",
+    "price": "",
+    "priceBasis": "",
+    "regularPrice": "1,99 €",
+    "regularPriceBasis": "19,90 €/kg",
+    "packSize": "100g",
+    "info": "100g | 1kg = 19,90 €",
+    "image": "https://media.cdn.kaufland.de/product-images/1024x1024/197b5eac83475279e1d71db4b3169c9b.webp",
+    "barcode": "4000417602619"
+  },
+  {
+    "title": "Schogetten für Kinder",
+    "price": "",
+    "priceBasis": "",
+    "regularPrice": "1,68 €",
+    "regularPriceBasis": "10,50 €/kg",
+    "packSize": "100g",
+    "info": "100g | (10,50 €/kg)",
+    "image": "https://media.cdn.kaufland.de/product-images/1024x1024/fc5da382032e747a747c16a602def3dc.webp",
+    "barcode": "4000607167904"
+  },
+  {
+    "title": "Milka Schokolade Darkmilk Kakao Splitter",
+    "price": "",
+    "priceBasis": "",
+    "regularPrice": "2,68 €",
+    "regularPriceBasis": "29,80 €/kg",
+    "packSize": "85g",
+    "info": "85g | (29,80 €/1kg)",
+    "image": "https://media.cdn.kaufland.de/product-images/1024x1024/e8cc2d23ca5f6118c51f795606ed94c6.webp",
+    "barcode": "7622201107932"
+  },
+  {
+    "title": "Milka Alpenmilch Schokolade mit Kuhflecken",
+    "price": "",
+    "priceBasis": "",
+    "regularPrice": "1,99 €",
+    "regularPriceBasis": "19,90 €/kg",
+    "packSize": "1oog",
+    "info": "100g | 1kg = 19,90 €",
+    "image": "https://media.cdn.kaufland.de/product-images/1024x1024/379d9afa90a4b6768e79906179e354f1.webp",
+    "barcode": "7622400005190"
+  },
+  {
+    "title": "Alpia Alpenmilch Schokolade",
+    "price": "",
+    "priceBasis": "",
+    "regularPrice": "2,23 €",
+    "regularPriceBasis": "22,30 €/kg",
+    "packSize": "100g",
+    "info": "100g | 1kg = 22,30 €",
+    "image": "https://media.cdn.kaufland.de/product-images/1024x1024/9324b05e013de5b9ea9898f7c28096db.webp",
+    "barcode": "4001743760189"
+  },
+  {
+    "title": "Alpia Weisse Schokolade",
+    "price": "",
+    "priceBasis": "",
+    "regularPrice": "2,23 €",
+    "regularPriceBasis": "22,30 €/kg",
+    "packSize": "100g",
+    "info": "100g | 1kg = 22,30 €",
+    "image": "https://media.cdn.kaufland.de/product-images/1024x1024/1941dda9ebd036fb88ba91d5d5749d6c.webp",
+    "barcode": "4001743760219"
+  },
+  {
+    "title": "Milka Choco Brownie",
+    "price": "",
+    "priceBasis": "",
+    "regularPrice": "4,41 €",
+    "regularPriceBasis": "29,40 €/kg",
+    "packSize": "150g",
+    "info": "150g | 1kg = 29,40 €",
+    "image": "https://media.cdn.kaufland.de/product-images/1024x1024/6985d68054a0eb7d967dbe88e84bd617.webp",
+    "barcode": "7622210635396"
+  }
+]

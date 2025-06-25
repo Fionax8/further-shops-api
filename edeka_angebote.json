@@ -1,6 +1,7 @@
 [
   {
-    "title": "Weihenstephan H-Milch",
+    "title": "H-Milch",
+    "brands": "Weihenstephan",
     "price": "1,29 €",
     "priceBasis": "1,29 €/l",
     "regularPrice": "1,89 €",
@@ -11,7 +12,8 @@
     "barcode": "4008452027589"
   },
   {
-    "title": "Unsere Heimat Frische Weidemilch 3,5 %",
+    "title": "Frische Weidemilch 3,5%",
+    "brands": "Unsere Heimat",
     "price": "",
     "priceBasis": "",
     "regularPrice": "1,19 €",
@@ -22,9 +24,10 @@
     "barcode": "4313920015884"
   },
   {
-    "title": "Golden Toast Vollkorn",
-    "price": "",
-    "priceBasis": "",
+    "title": "Toast Vollkorn",
+    "brands": "Golden Toast",
+    "price": "1,40 €/kg",
+    "priceBasis": "2,80 €/kg",
     "regularPrice": "1,90 €",
     "regularPriceBasis": "3,80 €/kg",
     "packSize": "500g",
@@ -33,7 +36,8 @@
     "barcode": "4009249019923"
   },      
   {
-    "title": "Golden Toast Weizen",
+    "title": "Toast Weizen",
+    "brands": "Golden Toast",
     "price": "",
     "priceBasis": "",
     "regularPrice": "1,90 €",
@@ -45,6 +49,7 @@
   },  
   {
     "title": "Philadelphia Laktosefrei Doppelrahmstufe",
+    "brands": "Philadelphia",
     "price": "",
     "priceBasis": "",
     "regularPrice": "1,99 €",
@@ -55,7 +60,8 @@
     "barcode": "7622210230416"
   },
   {
-    "title": "ALB-GOLD Bio Mie-Nudeln mit Ei",
+    "title": "Bio Mie-Nudeln mit Ei",
+    "brands": "ALB-GOLD",
     "price": "",
     "priceBasis": "",
     "regularPrice": "2,20 €",
@@ -66,7 +72,8 @@
     "barcode": "4018722305736"
   },        
   {
-    "title": "De Cecco Gnocchi Nr. 46",
+    "title": "Gnocchi Nr. 46",
+    "brands": "De Cecco",
     "price": "",
     "priceBasis": "",
     "regularPrice": "2,69 €",
@@ -77,7 +84,8 @@
     "barcode": "8001250120465"
   },       
   {
-    "title": "Meggle Feines Butterschmalz",
+    "title": "Feines Butterschmalz",
+    "brands": "Meggle",
     "price": "4,00 €",
     "priceBasis": "16,00 €/kg",
     "regularPrice": "5,39 €",
@@ -88,7 +96,8 @@
     "barcode": "4034900008268"
   },
   {
-    "title": "Bergader Bavaria Blu Der Würzige",
+    "title": "Bavaria Blu Der Würzige",
+    "brands": "Bergader",
     "price": "2,29 €",
     "priceBasis": "9,16 €/kg",
     "regularPrice": "3,49 €",
@@ -99,7 +108,8 @@
     "barcode": "4006402020413"
   }, 
   {
-    "title": "Golden Toast Körner Harmonie Toasties",
+    "title": "Toasties Körner Harmonie",
+    "brands": "Golden Toast",
     "price": "",
     "priceBasis": "",
     "regularPrice": "1,99 €",
@@ -110,7 +120,8 @@
     "barcode": "4009249012146"
   },    
   {
-    "title": "LIEKEN URKORN Vollkornsaftiges",
+    "title": "Vollkornsaftiges",
+    "brands": "Lieken Urkorn",
     "price": "1,50 €",
     "priceBasis": "3,00 €/kg",
     "regularPrice": "1,99 €",
@@ -121,7 +132,8 @@
     "barcode": "4006170001676"
   }, 
   {
-    "title": "Monte Ziego Demeter Ziegenfrischkäse Natur",
+    "title": "Ziegenfrischkäse Natur",
+    "brands": "Demeter Monte Ziego",
     "price": "3,00 €",
     "priceBasis": "30,00 €/kg",
     "regularPrice": "3,89 €",
@@ -132,7 +144,8 @@
     "barcode": "4260100870019"
   },      
   {
-    "title": "Milka Choco Pause",
+    "title": "Choco Pause",
+    "brands": "Milka",
     "price": "",
     "priceBasis": "",
     "regularPrice": "2,99 €",
@@ -143,7 +156,8 @@
     "barcode": "7622210100917"
   },
   {
-    "title": "Wedel Halva Krolewska",
+    "title": "Halva Krolewska",
+    "brands": "Wedel",
     "price": "",
     "priceBasis": "",
     "regularPrice": "4,89 €",
@@ -154,7 +168,8 @@
     "barcode": "5901588067070"
   },
   {
-    "title": "LEIBNIZ PiCK UP! Minis Choco",
+    "title": "PiCK UP! Minis Choco",
+    "brands": "LEIBNIZ",
     "price": "",
     "priceBasis": "",
     "regularPrice": "2,99 €",
@@ -165,7 +180,8 @@
     "barcode": "4017100406218"
   },
   {
-    "title": "Milka Cookie Sensations Oreo",
+    "title": "Cookie Sensations Oreo",
+    "brands": "Milka",
     "price": "",
     "priceBasis": "",
     "regularPrice": "2,99 €",
@@ -176,7 +192,8 @@
     "barcode": "7622201148676"
   },
   {
-    "title": "Matilde Vicenzi Millefoglie Classiche",
+    "title": "Millefoglie Classiche",
+    "brands": "Matilde Vicenzi",
     "price": "",
     "priceBasis": "",
     "regularPrice": "2,69 €",
@@ -187,7 +204,8 @@
     "barcode": "8000350000332"
   },
   {
-    "title": "Milka Choco Moo",
+    "title": "Choco Moo",
+    "brands": "Milka",
     "price": "",
     "priceBasis": "",
     "regularPrice": "2,99 €",
@@ -198,7 +216,8 @@
     "barcode": "7622300503079"
   },
   {
-    "title": "EDEKA Chocolate Cream Cookies",
+    "title": "Chocolate Cream Cookies",
+    "brands": "EDEKA",
     "price": "",
     "priceBasis": "",
     "regularPrice": "1,69 €",
@@ -209,7 +228,8 @@
     "barcode": "4311501494059"
   },
   {
-    "title": "Lindt Fioretto Minis Cappuccino",
+    "title": "Fioretto Minis Cappuccino",
+    "brands": "Lindt",
     "price": "",
     "priceBasis": "",
     "regularPrice": "5,69 €",
@@ -220,7 +240,8 @@
     "barcode": "4000539105029"
   },
   {
-    "title": "Lindt Lindor Stracciatella",
+    "title": "Lindor Stracciatella",
+    "brands": "Lindt",
     "price": "",
     "priceBasis": "",
     "regularPrice": "6,29 €",
@@ -232,6 +253,7 @@
   },
   {
     "title": "Ferrero Rocher",
+    "brands": "",
     "price": "",
     "priceBasis": "",
     "regularPrice": "3,06 €",

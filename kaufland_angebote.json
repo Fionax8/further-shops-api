@@ -1,19 +1,21 @@
 [
   {
-    "title": "Weihenstephan H-Milch 1,5%",
+    "title": "H-Milch 1,5%",
+    "brands": "Weihenstephan",
     "price": "1,21 €",
     "priceBasis": "1,21 €/l",
     "regularPrice": "1,99 €",
     "regularPriceBasis": "1,99 €/l",
     "packSize": "1l",
     "info": "1,5/3,5% Fett, je 1-l-Pckg",
-    "image": "https://olivia3-images.maexware-kundencloud.de/out/pictures/generated/product/1/540_540_75/DV019_4008452027589_PER.png",
+    "image": "https://lh3.googleusercontent.com/spp/AGWwKCcP3Oi0CIoOBD_Xb4s_a__7-20EdgESDLTalfJKY54CXAget2PusZgSqmwXkgjW1XX3i3s_0phlMKKA53rGPlNPG7n_pu4WV1XjJFA28nDLd-7SodgbFFJhm9NdCpoQbBuxe5dvL0SLkZYdUmOmXmRemY_YvOAfgVx89qvkh00uYRlnHPSlnYu3ZJ-GBIffnmZpTjOroQ=s512-rw-pd-pc0x00ffffff",
     "barcode": "4008452027589"
   },
   {
-    "title": "ALB-GOLD Bio Mie-Nudeln mit Ei",
-    "price": "1,60 €",
-    "priceBasis": "6,40 €/kg",
+    "title": "Bio Mie-Nudeln mit Ei",
+    "brands": "ALB-GOLD",
+    "price": "1,65 €",
+    "priceBasis": "6,6 €/kg",
     "regularPrice": "2,29 €",
     "regularPriceBasis": "9,16 €/kg",
     "packSize": "250g",
@@ -22,18 +24,32 @@
     "barcode": "4018722305736"
   },
   {
-    "title": "ALB-GOLD Vollkorn Mie-Noodles",
+    "title": "Vollkorn Mie-Nudeln",
+    "brands": "ALB-GOLD",
     "price": "1,39 €",
     "priceBasis": "5,56 €/kg",
     "regularPrice": "1,59 €",
     "regularPriceBasis": "6,36 €/kg",
     "packSize": "250g",
     "info": "250g | 5,56 €/kg",
-    "image": "https://media.cdn.kaufland.de/product-images/1024x1024/6457c0d9d2fefccf37a59ea5cfeebfd4.webp",
+    "image": "https://media.cdn.kaufland.de/product-images/1024x1024/e542ae1740b2c867331bc20d77b99989.webp",
     "barcode": "4018722341680"
   },       
   {
-    "title": "Davert Bio Jasmin-Reis Weiß",
+    "title": "Bavaria Blu Der Würzige",
+    "brands": "Bergader",
+    "price": "",
+    "priceBasis": "",
+    "regularPrice": "3,00 €",
+    "regularPriceBasis": "16,66 €/kg",
+    "packSize": "180g",
+    "info": "180g | 16,66 €/kg",
+    "image": "https://olivia3-images.maexware-kundencloud.de/out/pictures/generated/product/1/540_540_75/DV019_4006402020413_PER.png",
+    "barcode": "4006402020413"
+  },
+  {
+    "title": "Bio Jasmin-Reis Weiß",
+    "brands": "Davert",
     "price": "2,59 €",
     "priceBasis": "5,18 €/kg",
     "regularPrice": "3,00 €",
@@ -44,7 +60,8 @@
     "barcode": "4019339233122"
   },
   {
-    "title": "KoRo Cashewkerne Bruch",
+    "title": "Cashewkerne Bruch",
+    "brands": "KoRo",
     "price": "10,00 €",
     "priceBasis": "10 €/kg",
     "regularPrice": "13,20 €",
@@ -53,9 +70,22 @@
     "info": "1kg | 13,20 €/kg",
     "image": "https://media.cdn.kaufland.de/product-images/1024x1024/6c6c552d64682c16f5e45be2c4e25315.webp",
     "barcode": "4260335835586"
-  },     
+  },
   {
-    "title": "EHRMANN Grand Dessert ",
+    "title": "Toast Vollkorn",
+    "brands": "Golden Toast",
+    "price": "",
+    "priceBasis": "",
+    "regularPrice": "1,80 €",
+    "regularPriceBasis": "3,60 €/kg",
+    "packSize": "500g",
+    "info": "500g | 3,60 €/kg",
+    "image": "https://olivia3-images.maexware-kundencloud.de/out/pictures/generated/product/1/240_240_75/DV019_4009249019923_VOR.png",
+    "barcode": "4009249019923"
+  },      
+  {
+    "title": "Grand Dessert ",
+    "brands": "Ehrmann",
     "price": "",
     "priceBasis": "",
     "regularPrice": "1,19 €",
@@ -66,7 +96,8 @@
     "barcode": "4002971234107"
   },
   {
-    "title": "Ritter Sport Vollmilch laktosefrei",
+    "title": "Schokolade Vollmilch laktosefrei",
+    "brands": "Ritter Sport",
     "price": "",
     "priceBasis": "",
     "regularPrice": "1,99 €",
@@ -77,7 +108,8 @@
     "barcode": "4000417102003"
   },
   {
-    "title": "Ritter Sport Kakao-Mousse",
+    "title": "Schokolade Kakao-Mousse",
+    "brands": "Ritter Sport",
     "price": "",
     "priceBasis": "",
     "regularPrice": "1,99",
@@ -88,7 +120,8 @@
     "barcode": "4000417629418"
   },
   {
-    "title": "Ritter Sport Nugat",
+    "title": "Schokolade Sport Nugat",
+    "brands": "Ritter Sport",
     "price": "",
     "priceBasis": "",
     "regularPrice": "1,99 €",
@@ -100,6 +133,7 @@
   },
   {
     "title": "Schogetten für Kinder",
+    "brands": "",
     "price": "",
     "priceBasis": "",
     "regularPrice": "1,68 €",
@@ -110,7 +144,8 @@
     "barcode": "4000607167904"
   },
   {
-    "title": "Milka Schokolade Darkmilk Kakao Splitter",
+    "title": "Schokolade Darkmilk Kakao Splitter",
+    "brands": "Milka",
     "price": "",
     "priceBasis": "",
     "regularPrice": "2,68 €",
@@ -121,7 +156,8 @@
     "barcode": "7622201107932"
   },
   {
-    "title": "Milka Alpenmilch Schokolade mit Kuhflecken",
+    "title": "Alpenmilch Schokolade mit Kuhflecken",
+    "brands": "Milka",
     "price": "",
     "priceBasis": "",
     "regularPrice": "1,99 €",
@@ -132,7 +168,8 @@
     "barcode": "7622400005190"
   },
   {
-    "title": "Alpia Alpenmilch Schokolade",
+    "title": "Alpenmilch Schokolade",
+    "brands": "Alpia",
     "price": "",
     "priceBasis": "",
     "regularPrice": "2,23 €",
@@ -143,7 +180,8 @@
     "barcode": "4001743760189"
   },
   {
-    "title": "Alpia Weisse Schokolade",
+    "title": "Weisse Schokolade",
+    "brands": "Alpia",
     "price": "",
     "priceBasis": "",
     "regularPrice": "2,23 €",
@@ -154,7 +192,8 @@
     "barcode": "4001743760219"
   },
   {
-    "title": "Milka Choco Brownie",
+    "title": "Choco Brownie",
+    "brands": "Milka",
     "price": "",
     "priceBasis": "",
     "regularPrice": "4,41 €",
